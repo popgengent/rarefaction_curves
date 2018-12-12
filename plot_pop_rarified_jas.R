@@ -1,4 +1,4 @@
-setwd('~/Dropbox/PAIR/KIR-HLA/')
+setwd('') #add current working directory
 require(ggplot2)
 require(data.table)
 require("cowplot")
